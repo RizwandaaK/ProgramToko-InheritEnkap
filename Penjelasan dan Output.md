@@ -8,3 +8,4 @@ Kemudian di bawahnya, saya membuat method Void setter untuk Admin, namanya "setA
 
 ![alt text](https://github.com/RizwandaaK/ProgramToko-InheritEnkap/blob/master/codingan%20Smartphone.jpeg?raw=true)
 ## Smartphone.java | extends Toko.java ChildClass
+Childclass SmartPhone meng-extends dari parentclass Toko. Di class ini, saya mendeklarasikan satu variabel integer baru, bernama "jmlkamera". Lalu di bawahnya, ada method Void Display yang meng-override dari class sebelumnya. Di bawahnya ada 4 pasang method getter & setter, yaitu: Merk, Harga, Total, dan jmlkamera.
